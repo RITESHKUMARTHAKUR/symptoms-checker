@@ -3,6 +3,7 @@
     height: 3em;
     display: flex;
     gap: 1em;
+    position:fixed;
     justify-content: space-evenly;
     align-items: center;
     
@@ -10,5 +11,9 @@
         text-decoration: none;
         color: var(--white);
     }
+
+
 }
+
+
 

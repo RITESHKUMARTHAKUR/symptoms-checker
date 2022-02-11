@@ -17,4 +17,9 @@
   text-decoration: none;
   color: var(--white);
 }
+
+.HeaderNav:hover{
+  color:rgb(16, 115, 133);
+        background-color: rgb(12, 8, 43);
+}
 /*# sourceMappingURL=Header.css.map */
