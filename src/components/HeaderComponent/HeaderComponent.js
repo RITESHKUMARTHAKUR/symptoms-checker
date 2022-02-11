@@ -9,6 +9,7 @@ function HeaderComponent() {
           <Link className='links' to="/doctor" > Doctor </Link>
           <Link className='links' to="/medicine" > Medicine </Link>
           <Link className='links' to="/message" > Message  </Link>
+          <Link className='sawologin' to="/login" > Login  </Link>
       </nav>
   )
 }

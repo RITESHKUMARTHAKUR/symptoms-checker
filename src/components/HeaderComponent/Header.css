@@ -22,4 +22,17 @@
   color:rgb(16, 115, 133);
         background-color: rgb(12, 8, 43);
 }
+
+.HeaderNav .sawologin{
+  background-color: yellow;
+  border-radius:10px;
+  border:2px solid black;
+  width:95px;
+  text-align: center;
+}
+.HeaderNav .sawologin:hover{
+  background-color: black;
+  border-color: white;
+  color:white;
+}
 /*# sourceMappingURL=Header.css.map */
